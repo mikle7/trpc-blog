@@ -9,9 +9,25 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@prisma/client": "^4.0.0",
+    "@trpc/client": "^9.25.3",
+    "@trpc/next": "^9.25.3",
+    "@trpc/react": "^9.25.3",
+    "@trpc/server": "^9.25.3",
+    "autoprefixer": "^10.4.7",
+    "cookie": "^0.5.0",
+    "jotai": "^1.7.4",
+    "jsonwebtoken": "^8.5.1",
     "next": "12.2.1",
+    "nodemailer": "^6.7.7",
+    "postcss": "^8.4.14",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.33.1",
+    "react-query": "^3.39.1",
+    "superjson": "^1.9.1",
+    "tailwindcss": "^3.1.5",
+    "zod": "^3.17.3"
   },
   "devDependencies": {
     "@types/node": "18.0.3",
